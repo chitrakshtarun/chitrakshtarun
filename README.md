@@ -1,4 +1,4 @@
-# About Me
+# <p style="text-align: center;">👋 Hi, I am Chitraksh Tarun 👋</p>
 🏫 2nd Year Computer Science Student @ MRIIRS<br>💻 React Native Developer, Budding AI/ML Enthusiast & Developer<br>🔧 Currently building Cantata - a Music App<br>🤝	Looking for help/contributions with Backend Development<br>🎵 Huge music nerd, ask me about my favourite albums!
 
 # My Tech Stack
