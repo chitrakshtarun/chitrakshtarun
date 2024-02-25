@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Chitraksh Tarun 👋</h1>
 
-🏫 2nd Year Computer Science Student @ MRIIRS<br>💻 React Native Developer, Budding AI/ML Enthusiast & Developer<br>🔧 Currently building Cantata - a Music App<br>🤝	Looking for help/contributions with Backend Development<br>🎵 Huge music nerd, ask me about my favourite albums!
+🏫 2nd Year Computer Science Student @ MRIIRS<br>💻 React Native Developer, Budding AI/ML Enthusiast & Developer<br>🔧 Currently building Cantata & My Portfolio Website<br>🤝	Looking for help/contributions with Backend Development<br>🎵 Huge music nerd, ask me about my favourite albums!
 
 <h1 align="center">My Tech Stack</h1>
 
