@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Chitraksh Tarun 👋</h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=48&duration=1&pause=1000&color=FF4D6B&vCenter=true&random=false&width=632&lines=Hi%2C+I+am+Chitraksh+Tarun)](https://git.io/typing-svg)
 
 🏫 2nd Year Computer Science Student @ MRIIRS<br>💻 React Native Developer, Budding AI/ML Enthusiast & Developer<br>🔧 Currently building projects using Expo<br>🤝	Looking for help/contributions with Backend Development<br>🎵 Huge music nerd, ask me about my favourite albums!
 
