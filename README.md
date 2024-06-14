@@ -1,5 +1,5 @@
 # Hi, I am Chitraksh Tarun 👋
-🏫 2nd Year Computer Science Student<br>
+🏫 3rd Year Computer Science Student<br>
 💻 React Native & Expo Developer<br>
 🔧 Learning as I build!<br>
 🎵 Huge music nerd (probably an understatement...)
