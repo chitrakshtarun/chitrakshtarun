@@ -1,8 +1,7 @@
 # Hi, I am Chitraksh Tarun 👋
 🏫 3rd Year Computer Science Student<br>
-💻 React Native & Expo Developer<br>
-🔧 Learning as I build!<br>
-🎵 Huge music nerd (probably an understatement...)
+💻 React Native & Expo Dev<br>
+🎵 Huge Music Nerd 
 
 # Tech Stack
 <!-- Icons: https://github.com/tandpfun/skill-icons -->
