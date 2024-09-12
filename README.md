@@ -1,4 +1,4 @@
-### [Twitter](https://x.com/ChitrakshTarun) [LinkedIn](https://www.linkedin.com/in/chitrakshtarun/) [LeetCode](https://leetcode.com/u/ChitrakshTarun/)
+#### [Twitter](https://x.com/ChitrakshTarun) [LinkedIn](https://www.linkedin.com/in/chitrakshtarun/) [LeetCode](https://leetcode.com/u/ChitrakshTarun/) / ChitrakshTarun
 # Tech Stack
 <!-- Icons: https://github.com/tandpfun/skill-icons -->
 <!-- Expo icon from this Open PR: https://github.com/tandpfun/skill-icons/pull/277 -->
