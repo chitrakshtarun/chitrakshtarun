@@ -1,5 +1,3 @@
-# Chitraksh Tarun
-
 #### App Developer using React Native & Expo 📱
 
 - Prev: React Native Intern @ Pried.in
