@@ -1,5 +1,4 @@
-#### App Developer using React Native & Expo 📱
-
 - 3rd Year Computer Science Student
+- Building cool stuff using Expo, Next.js, and supporting technologies
 - Full-Stack Intern @ ClubzFM | Prev: React Native Intern @ Pried.in
 - Speedrunning, Speedcubing & Music Nerd
