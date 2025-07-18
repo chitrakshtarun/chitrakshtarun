@@ -1,4 +1,3 @@
 - Final Year Computer Science Student
-- Building cool stuff using Expo, Next.js, and supporting technologies
 - Full-Stack Intern @ ClubzFM | Prev: React Native Intern @ Pried.in
 - Speedrunning, Speedcubing & Music Nerd
