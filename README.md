@@ -1,4 +1,4 @@
-[X/Twitter](https://x.com/chitrakshtarun) | [LinkedIn](https://www.linkedin.com/in/chitrakshtarun) | [Email](mailto:chitrakshtarun@gmail.com) | [Resume](<files/Resume%20(Chitraksh%20Tarun).pdf>)
+[X/Twitter](https://x.com/chitrakshtarun) | [LinkedIn](https://www.linkedin.com/in/chitrakshtarun) | [Email](mailto:chitrakshtarun@gmail.com) | [Resume](<files/Resume%20(Chitraksh%20Tarun).pdf>) | [Website](https://chitrakshtarun.com/)
 
 - Chitraksh Tarun | 22yo | New Delhi, India
 - Current: Full Stack Intern @ ClubzFM, Prev: React Native Developer Intern @ Pried.in
@@ -19,5 +19,5 @@ Real-time Minecraft Speedrun pace tracker mobile app, built on top of PaceMan.gg
 #### Stuff I Wrote
 
 - [How the Minecraft Speedrunning Community stays fast with Expo](https://expo.dev/blog/how-the-minecraft-speedrunning-community-stays-fast-with-expo) - Expo Engineering Blog (Guest Author)
-- [Evaluation of a Natural-Language Programming Syntax with White and Black Box Testing](https://ieeexplore.ieee.org/document/11547456) - IEEE-published study (Primary Author)
+- [Evaluation of a Natural-Language Programming Syntax with White and Black Box Testing](https://ieeexplore.ieee.org/document/11547456) - IEEE-published Study (Primary Author)
 - [Image Based Municipal Garbage Bin Surveillance System Using Machine Learning](https://ieeexplore.ieee.org/document/11434139) - IEEE-published Study (Primary Author)
